@@ -9,12 +9,15 @@ This repository hosts the official standalone open-source scientific framework d
 Additionally, this project advocates for the **"Mycelium Compatibility Test"** — a conceptual standard to validate the biocompatibility of novel synthetic materials prior to industrial mass production.
 
 ## Repository Architecture
-* `/docs` — Houses the official academic preprint outlining the theoretical mechanisms, risk-mitigations, and evolutionary hypotheses (AI-microcurrent interfaces and Evolutionary Retro-Priming).
+* `/docs` — Houses the official academic preprint outlining the theoretical mechanisms, risk-mitigations, and evolutionary hypotheses.
 
-## The Preprint
+## The Preprint (Documentation)
 Read the full proposal natively in Markdown:
-* [English Preprint (Master)](docs/preprint_2026_EN.md)
+* [English Preprint (Master)](docs/fungal-priming-protocol.md)
+* [Russian Version (Translation)](docs/fungal-priming-protocol-ru.md)
 
 ## Author & Contact
+* **Author:** Vitali Colesnicenco (Independent Researcher, London, UK)
+* **Email:** vitalydecoder@gmail.com
 * **Author:** Vitali Colesnicenco (Independent Researcher, London, UK)
 * **Email:** vitalydecoder@gmail.com
