@@ -19,5 +19,4 @@ Read the full proposal natively in Markdown:
 ## Author & Contact
 * **Author:** Vitali Colesnicenco (Independent Researcher, London, UK)
 * **Email:** vitalydecoder@gmail.com
-* **Author:** Vitali Colesnicenco (Independent Researcher, London, UK)
-* **Email:** vitalydecoder@gmail.com
+
