@@ -57,7 +57,8 @@ If you have access to contaminated soil or landfill sites: test autonomous degra
 
 This protocol is and will remain open. CC BY 4.0.
 
----
+-"Virtus tentamine gaudet."
+— Seneca / Roman proverb--
 
 "Strength is given as the need demands." 
 — BaseReal-OS
